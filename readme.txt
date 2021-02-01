@@ -10,7 +10,6 @@ Reach me at rob@projectsagebox.com
 Fractal Tree Project -- Sagebox Example Code
 --------------------------------------------
 
-
 This project is a good example of how to use Sagebox to write procedural C++ program for Windows, 
 both with simple applications and more advanced applications.
 
