@@ -10,14 +10,14 @@ Reach me at rob@projectsagebox.com
 Fractal Tree Project -- Sagebox Example Code
 --------------------------------------------
 
+
 This project is a good example of how to use Sagebox to write procedural C++ program for Windows, 
 both with simple applications and more advanced applications.
 
 All 3 programs are written in plain, procedural C++ without using events, callbacks, or the need
 to understand Windows internals or event-driven programming.  Basically, they are written in the same way 
 one might write a scripted language, console mode application, or even a Basic program, but with the
-power, speed, and structure of compiled C++ running directly on the CPU and not through a VM or interpreter. 
-
+power, speed, and structure of compiled C++ running directly on the CPU and not through a VM or interpreter.
 
 These programs are meant as learning programs to show how Sagebox is used within the procedural Windows C++ environment
 facilitated by Sagebox.
